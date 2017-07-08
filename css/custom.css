@@ -1,0 +1,30 @@
+.bg-1 {
+    background-color: #1abc9c;
+    color: #ffffff;
+    
+}
+
+.navbar-custom{
+    margin-bottom: 0px ;
+    min-height: 70px;
+}
+
+.navbar-custom-brand{
+        font-size: 27px;
+}
+
+.bg-footer{
+    color: #777;
+    background-color: #f8f8f8;
+    min-height: 250px;
+    border-top: 4px solid #777777;
+}
+.img-custom{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.text-paragraph{
+ font-size: 20px;
+ padding-bottom: 60px;
+}
